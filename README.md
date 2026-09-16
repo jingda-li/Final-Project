@@ -1,7 +1,7 @@
 # Predicting the Earth Similarity Index of Exoplanets Using Stellar and Orbital Features
 
 **Author:** Jingda Li
-**Course:** ECON 626 Final Project
+**Course:** ECON 626 (University of Waterloo)
 **Date:** April 13, 2026
 
 ## Overview
